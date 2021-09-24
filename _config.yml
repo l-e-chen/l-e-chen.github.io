@@ -1,2 +1,4 @@
-theme: jekyll-theme-minimal
 title:  This domain is only used for email for now! 
+
+github:
+is\_project\_page:false
